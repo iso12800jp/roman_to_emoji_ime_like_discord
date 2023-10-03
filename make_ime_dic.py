@@ -1,6 +1,6 @@
 # 絵文字名のローマ字読みが記録されたJSONを読み取ってIME辞書形式に変換する
-import json
 
+import json
 
 with open("./emojis_ja.json", "r") as emoji_file_en:
     emojis_name_list_en = list(json.load(emoji_file_en).items())
