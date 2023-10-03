@@ -20,13 +20,20 @@ Windows 版 Google 日本語入力のみ動作を確認していますが，ま�
 
 ## 謝辞
 peaceiris 様作成の 😃 絵文字入力を日本語 🇯🇵 でするためのIME 追加辞書 📙 が発想元です．
+
 https://github.com/peaceiris/emoji-ime-dictionary
 
-`emojis.json` は ArkinSolomon 様のリポジトリより引用しております．
-本ファイルの著作権は氏に帰属します．
+
+`emojis.json` は ArkinSolomon 様のリポジトリより引用しております．そのため，本ファイルの著作権は氏に帰属します．
+
 https://github.com/ArkinSolomon/discord-emoji-converter/blob/master/emojis.json
 
+
 アルファベットをローマ字読みする変換にはromkanを使用しています．
+
+https://github.com/soimort/python-romkan
+
 https://pypi.org/project/romkan/
+
 
 以上の3リポジトリへの contributor のみなさまに厚く御礼を申し上げます。
