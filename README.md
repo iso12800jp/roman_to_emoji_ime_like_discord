@@ -29,5 +29,4 @@ https://github.com/ArkinSolomon/discord-emoji-converter/blob/master/emojis.json
 アルファベットをローマ字読みする変換にはromkanを使用しています．
 https://pypi.org/project/romkan/
 
-以上の3リポジトリへの contributor のみなさま厚厚く御礼を申し上げます
-。
+以上の3リポジトリへの contributor のみなさまに厚く御礼を申し上げます。
