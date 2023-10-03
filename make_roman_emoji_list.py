@@ -1,6 +1,7 @@
+# 絵文字名の記録されたJSONを読み取ってローマ字読みにする
+
 import json
 import romkan
-
 
 with open("./emojis.json", "r") as emoji_file_en:
     emojis_name_list_en = list(json.load(emoji_file_en).items())
