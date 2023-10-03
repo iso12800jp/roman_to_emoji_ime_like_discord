@@ -1,0 +1,2 @@
+# roman_to_emoji_ime_like_discord
+Discordの絵文字入力のように，コロンを打ってから絵文字名を英語で入力することで変換できるようにするIME辞書．
